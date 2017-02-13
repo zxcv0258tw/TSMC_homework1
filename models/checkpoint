@@ -1,0 +1,6 @@
+model_checkpoint_path: "NN50-50"
+all_model_checkpoint_paths: "NN10-10"
+all_model_checkpoint_paths: "NN20-20"
+all_model_checkpoint_paths: "NN30-30"
+all_model_checkpoint_paths: "NN40-40"
+all_model_checkpoint_paths: "NN50-50"
